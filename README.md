@@ -87,5 +87,3 @@ Bu proje ile kolayca kendi Discord botunu olusturabilir, ekonomi, moderasyon ve 
 git clone https://github.com/Seyit3199/DISCORD-BOT-ALTYAPI-V1.git
 cd botaltyapi-v1
 ```
-
-istersen ben bunu sana direkt github readme formatinda hazır olarak da verebilirim
