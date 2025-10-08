@@ -1,96 +1,93 @@
-# ?? Botaltyap? V1 - Discord.js Starter Altyap?  
-
-[Banner](https://raw.githubusercontent.com/Seyit3199/DISCORD-BOT-ALTYAPI-V1/refs/heads/main/botaltyap%C4%B1v1/DiscordBotV1%20Altyap%C4%B1.png?token=GHSAT0AAAAAADMW7PZ5MQS7PSKYL67LBHEQ2HGIL2A)
 
 
-Botaltyap? V1, **Discord.js v15** ile yap?lm?? bir **starter bot altyap?s?d?r**  
-Bu proje ile kolayca kendi Discord botunu olu?turabilir, ekonomi, moderasyon ve e?lence sistemlerini kullanabilirsin  
+# 🤖 Botaltyapi V1 - Discord.js Starter Altyapi
 
-# ?? Ozellikler  
+[Banner](https://raw.githubusercontent.com/Seyit3199/DISCORD-BOT-ALTYAPI-V1/refs/heads/main/botaltyapi-v1/DiscordBotV1%20Altyapi.png?token=GHSAT0AAAAAADMW7PZ5MQS7PSKYL67LBHEQ2HGIL2A)
 
-- **Ekonomi Sistemi**  
-  - `!cal??` → Cal??arak para kazan?rs?n?z (100-500 aras?na random miktar, 5 dk cooldown)  
-  - `!gonder @kullan?c? <miktar>` → Ba?ka kullan?c?ya para gonderirsiniz  
-  - `!paragor @kullan?c?` → Kullan?c?n?n bakiyesini gorursunuz  
-  - `!adminpara <@kullan?c?> <miktar>` → Yetkili kullan?c?lar bakiye ekleyebilir  
-  - `!gunluk` → Gunluk odul kazan?rs?n?z  
+Botaltyapi V1, **Discord.js v15** ile yapilmis bir **starter bot altyapisidir**
+Bu proje ile kolayca kendi Discord botunu olusturabilir, ekonomi, moderasyon ve eglence sistemlerini kullanabilirsin
 
-- **Better SQLite3 ile veri yonetimi**  
-  - Kullan?c? bakiyesi ve cooldown bilgileri guvenli ?ekilde saklan?r  
+# 🚀 Ozellikler
 
-- **Embed mesajlar**  
-  - Ekonomi ve oduller goze ho? embed mesajlarla bildirilir  
+* **Ekonomi Sistemi**
 
-- **Cooldown sistemi**  
-  - Kullan?c?lar?n komutlar? spamlamas?n? onler  
+  * `!calis` → Calisarak para kazanirsiniz (100-500 arasina random miktar, 5 dk cooldown)
+  * `!gonder @kullanici <miktar>` → Baska kullaniciya para gonderirsiniz
+  * `!paragor @kullanici` → Kullanicinin bakiyesini gorursunuz
+  * `!adminpara <@kullanici> <miktar>` → Yetkili kullanicilar bakiye ekleyebilir
+  * `!gunluk` → Gunluk odul kazanirsiniz
 
-- **Kurulum Sihirbaz?**  
-  - Python ile `.env` olu?turma, paket yukleme ve bot ba?latma ad?mlar?n? tek script ile yapabilirsiniz  
+* **Better SQLite3 ile veri yonetimi**
+  * Kullanici bakiyesi ve cooldown bilgileri guvenli sekilde saklanir
 
+* **Embed mesajlar**
+  * Ekonomi ve oduller goze hos embed mesajlarla bildirilir
 
+* **Cooldown sistemi**
+  * Kullanicilarin komutlari spamlamasini onler
 
-# ?? Ekonomi Komutlar?  
-- **cal??** → Rastgele miktarda para kazan?rs?n  
-- **gonder** → Ba?ka kullan?c?ya para gonderirsin  
-- **paragor** → Kendi veya ba?ka birinin bakiyesini goruntulersin  
-- **adminpara** → Admin kullan?c?ya para ekler  
-- **gunluk** → Her gun bir defa odul al?rs?n  
+* **Kurulum Sihirbazi**
+  * Python ile `.env` olusturma, paket yukleme ve bot baslatma adimlarini tek script ile yapabilirsiniz
 
-# ?? Moderasyon Komutlar?  
-- **ban** → Kullan?c?y? sunucudan yasaklar  
-- **unban** → Yasakl? kullan?c?y? geri al?r  
-- **kick** → Kullan?c?y? sunucudan atar  
-- **mute** → Kullan?c?y? susturur  
-- **unmute** → Susturulan kullan?c?y? geri acar  
-- **jail** → Kullan?c?y? k?s?tl? moda al?r  
-- **unjail** → Jail cezas?n? kald?r?r  
-- **clear** → Belirli say?da mesaj siler  
+# 💰 Ekonomi Komutlari
 
-# ?? E?lence Komutlar?  
-- **8ball** → Rastgele cevap verir  
-- **zar** → Zar atar (1-6 aras?)  
-- **yaz?tura** → Yaz? tura atar  
-- **?ansl?say?** → Rastgele ?ansl? say? verir  
-- **ping** → Botun gecikme suresini gosterir  
-- **avatar** → Kendi veya etiketlenen ki?inin avatar?n? gosterir  
+* **calis** → Rastgele miktarda para kazansin
+* **gonder** → Baska kullaniciya para gonder
+* **paragor** → Kendi veya baska birinin bakiyesini goruntule
+* **adminpara** → Admin kullaniciya para ekle
+* **gunluk** → Her gun bir defa odul al
 
-# ?? Bilgi Komutlar?  
-- **kullan?c?** → Kullan?c? hakk?nda bilgi verir  
-- **sunucu** → Sunucu hakk?nda bilgi verir  
-- **yard?m** → Tum komutlar?n listesini gosterir  
-- **uptime** → Botun ne kadar suredir aktif oldu?unu gosterir  
+# 🛡 Moderasyon Komutlari
 
-# ?? Kurulum  
+* **ban** → Kullaniciyi sunucudan yasaklar
+* **unban** → Yasakli kullaniciyi geri alir
+* **kick** → Kullaniciyi sunucudan atar
+* **mute** → Kullaniciyi susturur
+* **unmute** → Susturulan kullaniciyi geri acar
+* **jail** → Kullaniciyi kisitli moda alir
+* **unjail** → Jail cezasini kaldirir
+* **clear** → Belirli sayida mesaj siler
 
-1. `setup.py` dosyas?n? ac?n  
-2. Konsolda ad?mlar? takip edin  
-3. Token, Client ID ve Prefix bilgilerinizi girin  
-4. Node.js paketlerini yuklemek istiyorsan?z `1` tu?una bas?n (ba?latmak zorundas?n?z, yoksa bot cal??maz)  
-5. Kurulum tamamland?ktan sonra isterseniz botu ba?latabilirsiniz (`1` ile ba?lat, `0` ile c?k)  
-6. E?er `0` bast?ysan?z veya yanl??l?kla c?kt?ysan?z terminale tekrar girin  
-7. `cd botaltyapi-v1` yaz?n ve klasorun icinde oldu?unuzu terminalde do?rulay?n (ornek: `C:\Users\kullaniciad?\Desktop\botaltyapi-v1`)  
-8. Gordukten sonra `npm install` yaz?n  
-9. Botu ba?latmak icin `ba?lat.bat` dosyas?n? ac?n, ac?lmazsa sa? t?klay?p **Yonetici olarak cal??t?r**  
+# 🎲 Eglence Komutlari
 
+* **8ball** → Rastgele cevap verir
+* **zar** → Zar atar (1-6 arasi)
+* **yazitura** → Yazi tura atar
+* **sanslisayi** → Rastgele sansli sayi verir
+* **ping** → Botun gecikme sureini gosterir
+* **avatar** → Kendi veya etiketlenen kisinin avatarini gosterir
 
-# ?? Gereksinimler  
-- Node.js 18 veya uzeri  
-- Python 3.x (kurulum scripti icin)  
+# ℹ️ Bilgi Komutlari
 
+* **kullanici** → Kullanici hakkinda bilgi verir
+* **sunucu** → Sunucu hakkinda bilgi verir
+* **yardim** → Tum komutlarin listesini gosterir
+* **uptime** → Botun ne kadar suredir aktif oldugunu gosterir
 
-# ?? Ad?mlar  
+# ⚙️ Kurulum
 
-1. Depoyu bilgisayar?n?za indirin veya klonlay?n  
+1. `setup.py` dosyasini acin
+2. Konsolda adimlari takip edin
+3. Token, Client ID ve Prefix bilgilerinizi girin
+4. Node.js paketlerini yuklemek istiyorsaniz `1` tusuna basin (baslatmak zorundasiniz, yoksa bot calismaz)
+5. Kurulum tamamlandiktan sonra isterseniz botu baslatabilirsiniz (`1` ile baslat, `0` ile cik)
+6. Eger `0` bastiysaniz veya yanlislikla ciktiysaniz terminale tekrar girin
+7. `cd botaltyapi-v1` yazin ve klasorun icinde oldugunuzu terminalde dogrulayin (ornegin: `C:\Users\kullaniciadi\Desktop\botaltyapi-v1`)
+8. Gordukten sonra `npm install` yazin
+9. Botu baslatmak icin `baslat.bat` dosyasini acin, acilmazsa sag tiklayip **Yonetici olarak calistir**
+
+# 🧱 Gereksinimler
+
+* Node.js 18 veya uzeri
+* Python 3.x (kurulum scripti icin)
+
+# 📦 Adimlar
+
+1. Depoyu bilgisayarınıza indirin veya klonlayin
+
 ```bash
 git clone https://github.com/Seyit3199/DISCORD-BOT-ALTYAPI-V1.git
 cd botaltyapi-v1
+```
 
-
-
-
-
-
-
-
-
-
+istersen ben bunu sana direkt github readme formatinda hazır olarak da verebilirim
