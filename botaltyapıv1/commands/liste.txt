@@ -1,0 +1,35 @@
+ Volume in drive C is System
+ Volume Serial Number is 8291-E553
+
+ Directory of C:\Users\ayayla.YAYSUN\Desktop\botaltyapçv1\commands
+
+08.10.2025  13:13    <DIR>          .
+08.10.2025  13:09    <DIR>          ..
+07.10.2025  21:42             1.294 8ball.js
+07.10.2025  21:42             2.238 adminpara.js
+07.10.2025  21:42             1.023 avatar.js
+07.10.2025  21:42             2.582 ban.js
+07.10.2025  21:42             2.526 calçs.js
+07.10.2025  21:42             1.391 clear.js
+07.10.2025  21:42             2.165 gînder.js
+07.10.2025  21:42               470 gÅnlÅk.js
+07.10.2025  21:48             3.317 jail.js
+07.10.2025  21:42             2.124 kick.js
+07.10.2025  21:42             1.454 kullançcç.js
+07.10.2025  21:42             1.093 LICENSE
+08.10.2025  13:13                 0 liste.txt
+07.10.2025  21:42             1.648 mute.js
+07.10.2025  21:42             1.254 para.js
+07.10.2025  21:42             1.372 paragîr.js
+07.10.2025  21:42               922 ping.js
+07.10.2025  21:42               987 saanslçsayç.js
+07.10.2025  21:42             1.229 sunucu.js
+07.10.2025  21:44             2.765 unban.js
+07.10.2025  21:48             2.949 unjail.js
+07.10.2025  21:42             1.670 unmute.js
+07.10.2025  21:42             1.296 uptime.js
+07.10.2025  21:42             1.594 yardçm.js
+07.10.2025  21:42               945 yazçtura.js
+07.10.2025  21:42               928 zar.js
+              26 File(s)         41.236 bytes
+               2 Dir(s)  10.227.269.632 bytes free
