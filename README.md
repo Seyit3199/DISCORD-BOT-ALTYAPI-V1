@@ -1,6 +1,6 @@
 # ?? Botaltyap? V1 - Discord.js Starter Altyap?  
 
-[banner] (https://raw.githubusercontent.com/Seyit3199/DISCORD-BOT-ALTYAPI-V1/refs/heads/main/botaltyap%C4%B1v1/DiscordBotV1%20Altyap%C4%B1.png?token=GHSAT0AAAAAADMW7PZ5MQS7PSKYL67LBHEQ2HGIL2A)
+[Banner](https://raw.githubusercontent.com/Seyit3199/DISCORD-BOT-ALTYAPI-V1/refs/heads/main/botaltyap%C4%B1v1/DiscordBotV1%20Altyap%C4%B1.png?token=GHSAT0AAAAAADMW7PZ5MQS7PSKYL67LBHEQ2HGIL2A)
 
 
 Botaltyap? V1, **Discord.js v15** ile yap?lm?? bir **starter bot altyap?s?d?r**  
