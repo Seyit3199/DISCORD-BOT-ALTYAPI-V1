@@ -1,6 +1,7 @@
 # ?? Botaltyap? V1 - Discord.js Starter Altyap?  
 
-![Botaltyap? Banner](https://media.discordapp.net/attachments/1420313927111413790/1420314791335039008/Adsz_1000_x_500_piksel.png?ex=68da38ba&is=68d8e73a&hm=aeb720106e65355f8a86afcaf61ffb7a0e4886a34e27fe05f0b911b672d4d5dd&=&format=webp&quality=lossless)  
+https://raw.githubusercontent.com/Seyit3199/DISCORD-BOT-ALTYAPI-V1/refs/heads/main/botaltyap%C4%B1v1/DiscordBotV1%20Altyap%C4%B1.png?token=GHSAT0AAAAAADMW7PZ5MQS7PSKYL67LBHEQ2HGIL2A
+
 
 Botaltyap? V1, **Discord.js v15** ile yap?lm?? bir **starter bot altyap?s?d?r**  
 Bu proje ile kolayca kendi Discord botunu olu?turabilir, ekonomi, moderasyon ve e?lence sistemlerini kullanabilirsin  
