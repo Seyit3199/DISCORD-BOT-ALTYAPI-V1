@@ -2,8 +2,6 @@
 
 # 🤖 Botaltyapi V1 - Discord.js Starter Altyapi
 
-[Banner](https://raw.githubusercontent.com/Seyit3199/DISCORD-BOT-ALTYAPI-V1/refs/heads/main/botaltyapi-v1/DiscordBotV1%20Altyapi.png?token=GHSAT0AAAAAADMW7PZ5MQS7PSKYL67LBHEQ2HGIL2A)
-
 Botaltyapi V1, **Discord.js v15** ile yapilmis bir **starter bot altyapisidir**
 Bu proje ile kolayca kendi Discord botunu olusturabilir, ekonomi, moderasyon ve eglence sistemlerini kullanabilirsin
 
